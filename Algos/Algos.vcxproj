@@ -130,6 +130,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Algos.cpp" />
+    <ClCompile Include="BackTracking.cpp" />
+    <ClCompile Include="BitwaseMask.cpp" />
+    <ClCompile Include="DataStructure1.cpp" />
+    <ClCompile Include="DynamicProgramming.cpp" />
+    <ClCompile Include="Graphs.cpp" />
+    <ClCompile Include="Hashing.cpp" />
+    <ClCompile Include="Mathematics.cpp" />
+    <ClCompile Include="Sortings.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

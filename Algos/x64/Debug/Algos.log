@@ -1,9 +1,4 @@
 ﻿  Algos.cpp
-C:\mine\projects\Algos\Algos\Algos.cpp(301,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\mine\projects\Algos\Algos\Algos.cpp(358,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\mine\projects\Algos\Algos\Algos.cpp(359,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\mine\projects\Algos\Algos\Algos.cpp(360,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\mine\projects\Algos\Algos\Algos.cpp(418,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\mine\projects\Algos\Algos\Algos.cpp(443,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\mine\projects\Algos\Algos\Algos.cpp(443,15): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  Graphs.cpp
+  Generating Code...
   Algos.vcxproj -> C:\mine\projects\Algos\x64\Debug\Algos.exe
