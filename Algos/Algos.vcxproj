@@ -134,10 +134,16 @@
     <ClCompile Include="BitwaseMask.cpp" />
     <ClCompile Include="DataStructure1.cpp" />
     <ClCompile Include="DynamicProgramming.cpp" />
+    <ClCompile Include="FenwickTree.cpp" />
     <ClCompile Include="Graphs.cpp" />
     <ClCompile Include="Hashing.cpp" />
+    <ClCompile Include="Heap.cpp" />
     <ClCompile Include="Mathematics.cpp" />
+    <ClCompile Include="SegmentTree.cpp" />
     <ClCompile Include="Sortings.cpp" />
+    <ClCompile Include="SparceTable.cpp" />
+    <ClCompile Include="SqrtDecomposition.cpp" />
+    <ClCompile Include="Trie.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

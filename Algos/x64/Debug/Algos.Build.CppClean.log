@@ -2,6 +2,7 @@ c:\mine\projects\algos\algos\x64\debug\vc143.pdb
 c:\mine\projects\algos\algos\x64\debug\vc143.idb
 c:\mine\projects\algos\algos\x64\debug\sortings.obj
 c:\mine\projects\algos\algos\x64\debug\mathematics.obj
+c:\mine\projects\algos\algos\x64\debug\heap.obj
 c:\mine\projects\algos\algos\x64\debug\hashing.obj
 c:\mine\projects\algos\algos\x64\debug\graphs.obj
 c:\mine\projects\algos\algos\x64\debug\dynamicprogramming.obj
@@ -9,6 +10,10 @@ c:\mine\projects\algos\algos\x64\debug\datastructure1.obj
 c:\mine\projects\algos\algos\x64\debug\bitwasemask.obj
 c:\mine\projects\algos\algos\x64\debug\backtracking.obj
 c:\mine\projects\algos\algos\x64\debug\algos.obj
+c:\mine\projects\algos\algos\x64\debug\segmenttree.obj
+c:\mine\projects\algos\algos\x64\debug\fenwicktree.obj
+c:\mine\projects\algos\algos\x64\debug\sqrtdecomposition.obj
+c:\mine\projects\algos\algos\x64\debug\sparcetable.obj
 c:\mine\projects\algos\x64\debug\algos.exe
 c:\mine\projects\algos\algos\x64\debug\algos.ilk
 c:\mine\projects\algos\x64\debug\algos.pdb
