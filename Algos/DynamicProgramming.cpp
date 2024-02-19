@@ -6,7 +6,7 @@ using namespace std;
 class DynamicProgramming
 {
 public:
-  static void count_staircase()
+  static void countStaircase()
   {
 	int n, k;
 	cin >> n >> k;
@@ -30,6 +30,21 @@ public:
 	for (int i = 0; i < n; ++i)
 	{
 	  cout << L[i] << " ";
+	}
+  }
+
+  static void testSlidingWindowTechnique()
+  {
+	vector<int> arr{ 1, 7, 5, 3, 2, 3, 8, 9 };
+	int k = 4;
+	int sum = 0;
+	for (int i = 0; i < k; ++i) { // O(k)
+	  sum += arr[i];
+	}
+	cout << sum << " ";
+	for (int i = 1; i <= arr.size() - k; ++i) { // O(n)
+	  sum = sum - arr[i - 1] + arr[i + k - 1];
+	  cout << sum << " ";
 	}
   }
 };

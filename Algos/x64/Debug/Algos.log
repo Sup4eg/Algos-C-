@@ -1,1 +1,17 @@
-﻿  Algos.vcxproj -> C:\mine\projects\Algos\x64\Debug\Algos.exe
+﻿  Algos.cpp
+  BackTracking.cpp
+  BitwaseMask.cpp
+  DataStructure1.cpp
+  DynamicProgramming.cpp
+  FenwickTree.cpp
+  Graphs.cpp
+  Hashing.cpp
+  Heap.cpp
+  Mathematics.cpp
+  SegmentTree.cpp
+  Sortings.cpp
+  SparceTable.cpp
+  SqrtDecomposition.cpp
+  Trie.cpp
+  Generating Code...
+  Algos.vcxproj -> C:\mine\projects\Algos\x64\Debug\Algos.exe
